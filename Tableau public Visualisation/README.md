@@ -35,7 +35,8 @@ https://public.tableau.com/app/profile/yaqoob.david/viz/GenderPayGapBetweenMalea
 
 #### MakeoverMonday Week 36-Is Your Favourite Cereal Healthy
 
-https://public.tableau.com/app/profile/yaqoob.david/viz/MakeoverMondayWeek36-IsYourFavouriteCerealHealthy/MM2020WEEK36D1![MM2020 WEEK36 D1]
+https://public.tableau.com/app/profile/yaqoob.david/viz/MakeoverMondayWeek36-IsYourFavouriteCerealHealthy/MM2020WEEK36D1
 
-(https://user-images.githubusercontent.com/52135942/166107153-403df1cc-d35c-41d3-8d82-f43391507b7c.png)
+![MM2020 WEEK36 D1](https://user-images.githubusercontent.com/52135942/166107179-f19601d6-fc1e-4d5a-ad70-15ba2167cfa4.png)
+
 
