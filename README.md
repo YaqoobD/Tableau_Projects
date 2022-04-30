@@ -29,8 +29,8 @@ Below is some of my work from makeover Monday & Workout Wednesday and some other
 
 https://public.tableau.com/app/profile/yaqoob.david/viz/KaggelTitanicVisualisationwithTableau/Dashboard1
 
-[Dashboard 1 (1)](https://user-images.githubusercontent.com/52135942/166107648-edf2984e-768b-4447-8359-93041b26f21a.png)
 
+![Dashboard 1 (1)](https://user-images.githubusercontent.com/52135942/166107671-8e709195-fa8c-4cf1-88ee-cded0117e4fe.png)
 
 #### Is Your Favourite Cereal Healthy
 
