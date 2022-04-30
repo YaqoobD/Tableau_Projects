@@ -6,6 +6,8 @@ In this section we go over some of the visualizations I've created by participat
 are both weekly challenges where participants construct compelling stories of data utilizing technologies such as Tableau, Power BI, etc...
 I participated in these challenges to better understand how to communicate data to others
 
+https://public.tableau.com/app/profile/yaqoob.david
+
 ### [Makeover Monday](https://www.makeovermonday.co.uk/)
 
 > **Makeover Monday** is your weekly learning and development appointment with yourself and hundreds of passionate data people. For free!
