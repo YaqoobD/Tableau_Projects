@@ -33,10 +33,16 @@ https://public.tableau.com/app/profile/yaqoob.david/viz/GenderPayGapBetweenMalea
 ![Dashboard 1](https://user-images.githubusercontent.com/52135942/166107054-cf7442a3-a5ba-402c-8351-3cc87d14ea1c.png)
 
 
-#### MakeoverMonday Week 36-Is Your Favourite Cereal Healthy
+#### Is Your Favourite Cereal Healthy
 
 https://public.tableau.com/app/profile/yaqoob.david/viz/MakeoverMondayWeek36-IsYourFavouriteCerealHealthy/MM2020WEEK36D1
 
 ![MM2020 WEEK36 D1](https://user-images.githubusercontent.com/52135942/166107179-f19601d6-fc1e-4d5a-ad70-15ba2167cfa4.png)
 
+
+#### Kaggel Titanic Visualisation with Tableau
+
+https://public.tableau.com/app/profile/yaqoob.david/viz/KaggelTitanicVisualisationwithTableau/Dashboard1
+
+![Dashboard 1 (1)](https://user-images.githubusercontent.com/52135942/166107263-7944d343-9b00-4b12-ae98-1910e8548081.png)
 
