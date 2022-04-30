@@ -29,5 +29,18 @@ Below is some of my work from makeover Monday & Workout Wednesday and some other
 
 https://public.tableau.com/app/profile/yaqoob.david/viz/KaggelTitanicVisualisationwithTableau/Dashboard1
 
-![Dashboard 1 (1)](https://user-images.githubusercontent.com/52135942/166107551-eb624a12-becc-46b3-adf5-6cb7c842919f.png)
+![Dashboard 1 (1)](https://user-images.githubusercontent.com/52135942/166107551-eb624a12-becc-46b3-adf5-6cb7c842919f.png
+
+#### Is Your Favourite Cereal Healthy
+
+https://public.tableau.com/app/profile/yaqoob.david/viz/MakeoverMondayWeek36-IsYourFavouriteCerealHealthy/MM2020WEEK36D1
+
+![MM2020 WEEK36 D1](https://user-images.githubusercontent.com/52135942/166107603-558133de-22f9-47d3-baad-925649e1d05f.png)
+
+
+#### Gender Pay Gap Between Male and Female Teachers Across England
+
+https://public.tableau.com/app/profile/yaqoob.david/viz/GenderPayGapBetweenMaleandFemaleTeachersAcrossEngland/Dashboard1
+
+![Dashboard 1](https://user-images.githubusercontent.com/52135942/166107621-887a7026-fef9-409f-aec2-2571d5910882.png)
 
