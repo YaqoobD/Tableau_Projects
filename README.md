@@ -19,8 +19,15 @@ I participated in these challenges to better understand how to communicate data 
 
 Below is some of my work from makeover Monday & Workout Wednesday and some other datasets on tableau. 
 
-#### [Most World Cup Wins]
+#### Most World Cup Wins
 
 (https://public.tableau.com/profile/yaqoob.david#!/vizhome/FIFAWorldcupWinners/Sheet1)
 
 ![Sheet 1](https://user-images.githubusercontent.com/52135942/166100763-bf8a4d46-6f80-4506-bbe6-31dfb3c98c39.png)
+
+#### Kaggel Titanic Visualisation with Tableau
+
+https://public.tableau.com/app/profile/yaqoob.david/viz/KaggelTitanicVisualisationwithTableau/Dashboard1
+
+![Dashboard 1 (1)](https://user-images.githubusercontent.com/52135942/166107551-eb624a12-becc-46b3-adf5-6cb7c842919f.png)
+
